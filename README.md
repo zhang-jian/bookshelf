@@ -1,4 +1,5 @@
 Booklist
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 ========
 
 <!-- vim-markdown-toc GFM -->
@@ -9,6 +10,7 @@ Booklist
 * [Other Resources](#https://github.com/hktxt/bookshelf/tree/master/Other%20Resources)
 
 <!-- vim-markdown-toc -->
+
 
 ### Machine Learning
 Index                | Title
