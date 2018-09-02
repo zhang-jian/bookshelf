@@ -1,5 +1,4 @@
 Booklist
-
 ========
 
 <!-- vim-markdown-toc GFM -->
