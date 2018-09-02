@@ -33,7 +33,7 @@ Index                | Title
 18     | [数据科学实战.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%9E%E6%88%98.pdf)
 19     | [统计自然语言处理（第二版）.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 20     | [自然语言处理综论中文版.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%BB%BC%E8%AE%BA%E4%B8%AD%E6%96%87%E7%89%88.pdf)
-21     | [Deep Learning Specialization(5 courses)-Andrew Ng, Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Deep%20Learning%20Specialization(5%20courses)-Andrew%20Ng%2C%20Assignments/Course%201%20Neural%20Networks%20and%20Deep%20Learning)
+21     | [Deep Learning Specialization(5 courses)-Andrew Ng, Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Deep%20Learning%20Specialization(5%20courses)-Andrew%20Ng%2C%20Assignments)
 22     | [Machine Learning（Andrew Ng）Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Machine%20Learning%EF%BC%88Andrew%20Ng%EF%BC%89Assignments)
 
 ### Computer Science
