@@ -101,8 +101,18 @@ Index                | Title
 59                 | [What You Need to Know about Python.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/What%20You%20Need%20to%20Know%20about%20Python.pdf)
 60                 | [What you need to know about R.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/What%20you%20need%20to%20know%20about%20R.pdf)
 61                 | [WordPress 4.x Complete.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/WordPress%204.x%20Complete.pdf)
-
-
+62                 | [Advanced Machine Learning with Python.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Advanced%20Machine%20Learning%20with%20Python.pdf)
+63                 | [Building Business Websites with Squarespace 7.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Building%20Business%20Websites%20with%20Squarespace%207.pdf)
+64                 | [Docker Cookbook.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Docker%20Cookbook.pdf)
+65                 | [Effective Python Penetration Testing.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Effective%20Python%20Penetration%20Testing.pdf)
+66                 | [GitHub Essentials.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/GitHub%20Essentials.pdf)
+67                 | [Learning JavaScript Data Structures and Algorithms.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Learning%20JavaScript%20Data%20Structures%20and%20Algorithms.pdf)
+68                 | [Learning Robotics Using Python.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Learning%20Robotics%20Using%20Python.pdf)
+69                 | [Mastering Blockchain.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Mastering%20Blockchain.pdf)
+70                 | [OpenCV By Example.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/OpenCV%20By%20Example.pdf)
+71                 | [Raspberry Pi By Example.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Raspberry%20Pi%20By%20Example.pdf)
+72                 | [TypeScript Design Patterns.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/TypeScript%20Design%20Patterns.pdf)
+73                 | [Unity 5.x Shaders and Effects Cookbook.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Unity%205.x%20Shaders%20and%20Effects%20Cookbook.pdf)
 
 ### Math
 
