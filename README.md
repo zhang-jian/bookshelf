@@ -162,6 +162,8 @@ Index                | Title
 30               | [Probability and Random Processes,Venkatarama Krishnan.pdf](https://github.com/hktxt/bookshelf/blob/master/Math/Probability%20and%20Random%20Processes%2CVenkatarama%20Krishnan.pdf)
 31               | [Probability and Random Processes.pdf](https://github.com/hktxt/bookshelf/blob/master/Math/Probability%20and%20Random%20Processes.pdf)
 32               | [Topology,James Munkres, 2nd ed.pdf](https://github.com/hktxt/bookshelf/blob/master/Math/Topology%2CJames%20Munkres%2C%202nd%20ed.pdf)
+33               | [概率论与数理统计（陈希孺）.pdf](https://github.com/hktxt/bookshelf/blob/master/Math/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%EF%BC%88%E9%99%88%E5%B8%8C%E5%AD%BA%EF%BC%89.pdf
+34               | [概率论与数理统计(茆诗松).pdf](https://github.com/hktxt/bookshelf/blob/master/Math/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1(%E8%8C%86%E8%AF%97%E6%9D%BE).pdf)
 
 ### Other Resources
 
