@@ -1,5 +1,5 @@
 Booklist
-========
+[![License](https://img.shields.io/badge/license-GPL_v3-373737.svg?style=flat)](https://github.com/PopcornTimeTV/PopcornTimeTV/blob/master/LICENSE.md)
 
 <!-- vim-markdown-toc GFM -->
 
