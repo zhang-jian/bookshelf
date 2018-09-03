@@ -39,8 +39,12 @@ Index                | Title
 19     | [数据科学实战.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%9E%E6%88%98.pdf)
 20     | [统计自然语言处理（第二版）.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/%E7%BB%9F%E8%AE%A1%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 21     | [自然语言处理综论中文版.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%BB%BC%E8%AE%BA%E4%B8%AD%E6%96%87%E7%89%88.pdf)
-22     | [Deep Learning Specialization(5 courses)-Andrew Ng, Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Deep%20Learning%20Specialization(5%20courses)-Andrew%20Ng%2C%20Assignments)
-23     | [Machine Learning（Andrew Ng）Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Machine%20Learning%EF%BC%88Andrew%20Ng%EF%BC%89Assignments)
+22     | [Reinforcement Learning An Introduction, Richard S. Sutton and Andrew G. Barto.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Reinforcement%20Learning%20An%20Introduction%2C%20Richard%20S.%20Sutton%20and%20Andrew%20G.%20Barto.pdf)
+23     | [Introduction to Probability, Charles M. Grinstead & J. Laurie Snell.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Introduction%20to%20Probability%2C%20Charles%20M.%20Grinstead%20%26%20J.%20Laurie%20Snell.pdf)
+24     | [Probability Theory The Logic of Science, E. T. Jaynes.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Probability%20Theory%20The%20Logic%20of%20Science%2C%20E.%20T.%20Jaynes.pdf)
+
+25     | [Deep Learning Specialization(5 courses)-Andrew Ng, Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Deep%20Learning%20Specialization(5%20courses)-Andrew%20Ng%2C%20Assignments)
+26     | [Machine Learning（Andrew Ng）Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Machine%20Learning%EF%BC%88Andrew%20Ng%EF%BC%89Assignments)
 
 
 ### Computer Science
