@@ -1,7 +1,9 @@
 Booklist
+========
 
 
-[![License](https://img.shields.io/badge/license-GPL_v3-373737.svg?style=flat)]
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/hktxt/bookshelf)
+
 
 <!-- vim-markdown-toc GFM -->
 
