@@ -115,6 +115,8 @@ Index                | Title
 71                 | [Raspberry Pi By Example.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Raspberry%20Pi%20By%20Example.pdf)
 72                 | [TypeScript Design Patterns.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/TypeScript%20Design%20Patterns.pdf)
 73                 | [Unity 5.x Shaders and Effects Cookbook.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Unity%205.x%20Shaders%20and%20Effects%20Cookbook.pdf)
+74                 | [Python GUI Programming Cookbook Second Edition.pdf](/Computer%20Science/Python%20GUI%20Programming%20Cookbook%20Second%20Edition.pdf)
+
 
 ### Math
 
