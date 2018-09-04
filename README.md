@@ -124,6 +124,7 @@ Index                | Title
 72                 | [TypeScript Design Patterns.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/TypeScript%20Design%20Patterns.pdf)
 73                 | [Unity 5.x Shaders and Effects Cookbook.pdf](https://github.com/hktxt/bookshelf/blob/master/Computer%20Science/Unity%205.x%20Shaders%20and%20Effects%20Cookbook.pdf)
 74                 | [Python GUI Programming Cookbook Second Edition.pdf](/Computer%20Science/Python%20GUI%20Programming%20Cookbook%20Second%20Edition.pdf)
+75                 | [Mastering Embedded Linux Programming, Second Edition.pdf](/Computer%20Science/Mastering%20Embedded%20Linux%20Programming%2C%20Second%20Edition.pdf)
 
 
 ### Math
