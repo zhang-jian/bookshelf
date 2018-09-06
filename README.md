@@ -127,6 +127,7 @@ Index                | Title
 74                 | [Python GUI Programming Cookbook Second Edition.pdf](/Computer%20Science/Python%20GUI%20Programming%20Cookbook%20Second%20Edition.pdf)
 75                 | [Mastering Embedded Linux Programming, Second Edition.pdf](/Computer%20Science/Mastering%20Embedded%20Linux%20Programming%2C%20Second%20Edition.pdf)
 76                 | [Deep Learning with Python, François Chollet.pdf](/Computer%20Science/Deep%20Learning%20with%20Python%2C%20Fran%C3%A7ois%20Chollet.pdf)
+77                 | [Python Data Structures and Algorithms.pdf](/Computer%20Science/Python%20Data%20Structures%20and%20Algorithms.pdf)
 
 
 ### Math
