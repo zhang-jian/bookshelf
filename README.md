@@ -171,6 +171,7 @@ Index                | Title
 34               | [概率论与数理统计(茆诗松).pdf](https://github.com/hktxt/bookshelf/blob/master/Math/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1(%E8%8C%86%E8%AF%97%E6%9D%BE).pdf)
 35               | [Blitzstein J.K., Hwang J.-Introduction to Probability-CRC (2015).pdf](/Math/Blitzstein%20J.K.%2C%20Hwang%20J.-Introduction%20to%20Probability-CRC%20(2015).pdf)
 36               | [Introduction to Mathematical Statistics _7th .pdf](/Math/Introduction%20to%20Mathematical%20Statistics%20_7th%20.pdf)
+37               | [Probability and Statistics-Morris H.Degroot, 4th Edition.pdf](/Math/Probability%20and%20Statistics-Morris%20H.Degroot%2C%204th%20Edition.pdf)
 
 ### Other Resources
 
