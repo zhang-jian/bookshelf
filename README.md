@@ -131,6 +131,9 @@ Index                | Title
 78                 | [Mastering Python Networking.pdf](/Computer%20Science/Mastering%20Python%20Networking.pdf)
 79                 | [Expert Delphi.pdf](/Computer%20Science/Expert%20Delphi.pdf)
 80                 | [Modern Python Cookbook.pdf](/Computer%20Science/Modern%20Python%20Cookbook.pdf)
+81                 | [Doing Bayesian Data Analysis.pdf](/Computer%20Science/Doing%20Bayesian%20Data%20Analysis.pdf)
+82                 | [Foundations of Data Science.pdf](/Computer%20Science/Foundations%20of%20Data%20Science.pdf)
+83                 | [Foundations of Computer Science.pdf](/Computer%20Science/Foundations%20of%20Computer%20Science.pdf)
 
 
 ### Math
