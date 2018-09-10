@@ -19,7 +19,7 @@ _______________
 Index                | Title
 :---:                | :---
  1     |[An Introduction to Natural Language Processing(Third Edition).pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/An%20Introduction%20to%20Natural%20Language%20Processing(Third%20Edition).pdf)
-2     | [An Introduction to Statistical Learning with Applications in R.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/An%20Introduction%20to%20Statistical%20Learning%20with%20Applications%20in%20R.pdf)
+2     | [An Introduction to Statistical Learning.pdf](/Machine%20Leraning/An%20Introduction%20to%20Statistical%20Learning.pdf)
 3     | [Building Machine Learning Projects with TensorFlow.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Building%20Machine%20Learning%20Projects%20with%20TensorFlow.pdf)
 4     | [Deep Learning Tutorial 李宏毅 Hung-yi Lee.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Learning%20Tutorial%20%E6%9D%8E%E5%AE%8F%E6%AF%85%20Hung-yi%20Lee.pdf)
 5     | [Deep Learning.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Learning.pdf)
