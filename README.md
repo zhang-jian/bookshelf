@@ -130,6 +130,7 @@ Index                | Title
 77                 | [Python Data Structures and Algorithms.pdf](/Computer%20Science/Python%20Data%20Structures%20and%20Algorithms.pdf)
 78                 | [Mastering Python Networking.pdf](/Computer%20Science/Mastering%20Python%20Networking.pdf)
 79                 | [Expert Delphi.pdf](/Computer%20Science/Expert%20Delphi.pdf)
+80                 | [Modern Python Cookbook.pdf](/Computer%20Science/Modern%20Python%20Cookbook.pdf)
 
 
 ### Math
