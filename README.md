@@ -41,10 +41,9 @@ Index                | Title
 21     | [自然语言处理综论中文版.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%BB%BC%E8%AE%BA%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 22     | [Reinforcement Learning An Introduction, Richard S. Sutton and Andrew G. Barto.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Reinforcement%20Learning%20An%20Introduction%2C%20Richard%20S.%20Sutton%20and%20Andrew%20G.%20Barto.pdf)
 23     | [Introduction to Probability, Charles M. Grinstead & J. Laurie Snell.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Introduction%20to%20Probability%2C%20Charles%20M.%20Grinstead%20%26%20J.%20Laurie%20Snell.pdf)
-24     | [Probability Theory The Logic of Science, E. T. Jaynes.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Probability%20Theory%20The%20Logic%20of%20Science%2C%20E.%20T.%20Jaynes.pdf)
-25     | [Deep Reinforcement Learning Hands-On.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Reinforcement%20Learning%20Hands-On.pdf)
-26     | [Deep Learning Specialization(5 courses)-Andrew Ng, Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Deep%20Learning%20Specialization(5%20courses)-Andrew%20Ng%2C%20Assignments)
-27     | [Machine Learning（Andrew Ng）Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Machine%20Learning%EF%BC%88Andrew%20Ng%EF%BC%89Assignments)
+24     | [Deep Reinforcement Learning Hands-On.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Reinforcement%20Learning%20Hands-On.pdf)
+25     | [Deep Learning Specialization(5 courses)-Andrew Ng, Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Deep%20Learning%20Specialization(5%20courses)-Andrew%20Ng%2C%20Assignments)
+26     | [Machine Learning（Andrew Ng）Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Machine%20Learning%EF%BC%88Andrew%20Ng%EF%BC%89Assignments)
 
 
 ### Computer Science
