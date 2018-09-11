@@ -25,7 +25,7 @@ Index                | Title
 5     | [Deep Learning.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Learning.pdf)
 6     | [Deep Learning_cn.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Learning_cn.pdf)
 7     | [Designing.Data-Intensive.Applications.pdf](#Designing.Data-Intensive.Applications.pdf)
-8     | [MLAPPoriginal.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/MLAPPoriginal.pdf)
+8     | [MLAPP original.pdf](/Machine%20Leraning/MLAPP%20original.pdf)
 9     | [Machine Learning A Probabilistic Perspective.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Machine%20Learning%20A%20Probabilistic%20Perspective.pdf)
 10     | [Machine Learning for the Web.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Machine%20Learning%20for%20the%20Web.pdf)
 11     | [Neural Network Design.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Neural%20Network%20Design.pdf)
@@ -134,10 +134,10 @@ Index                | Title
 82                 | [Foundations of Data Science.pdf](/Computer%20Science/Foundations%20of%20Data%20Science.pdf)
 83                 | [Foundations of Computer Science.pdf](/Computer%20Science/Foundations%20of%20Computer%20Science.pdf)
 84                 | [Vue.js 2 Cookbook.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
-85                 | [算法图解.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
-86                 | [Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
-87                 | [Cracking the Coding Interview, 4 Edition, 150 Programming Interview Questions and Solutions.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
-88                 | [编程之美——微软技术面试心得.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
+85                 | [算法图解.pdf](/Computer%20Science/%E7%AE%97%E6%B3%95%E5%9B%BE%E8%A7%A3.pdf)
+86                 | [Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne.pdf](/Computer%20Science/Algorithhms%204th%20Edition%20by%20Robert%20Sedgewick%2C%20Kevin%20Wayne.pdf)
+87                 | [Cracking the Coding Interview, 4 Edition, 150 Programming Interview Questions and Solutions.pdf](/Computer%20Science/Cracking%20the%20Coding%20Interview%2C%204%20Edition%2C%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf)
+88                 | [编程之美——微软技术面试心得.pdf](/Computer%20Science/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E%E2%80%94%E2%80%94%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97.pdf)
 
 ### Math
 
@@ -180,8 +180,8 @@ Index                | Title
 35               | [Blitzstein J.K., Hwang J.-Introduction to Probability-CRC (2015).pdf](/Math/Blitzstein%20J.K.%2C%20Hwang%20J.-Introduction%20to%20Probability-CRC%20(2015).pdf)
 36               | [Introduction to Mathematical Statistics _7th .pdf](/Math/Introduction%20to%20Mathematical%20Statistics%20_7th%20.pdf)
 37               | [Probability and Statistics-Morris H.Degroot, 4th Edition.pdf](/Math/Probability%20and%20Statistics-Morris%20H.Degroot%2C%204th%20Edition.pdf)
-38               | [Probability theory the logic of science-概率论沉思录.pdf](/Math/Probability%20and%20Statistics-Morris%20H.Degroot%2C%204th%20Edition.pdf)
-39               | [凸优化_Stephen_Boyd(王书宁翻译).pdf](/Math/Probability%20and%20Statistics-Morris%20H.Degroot%2C%204th%20Edition.pdf)
+38               | [Probability theory the logic of science-概率论沉思录.pdf](/Math/Probability%20theory%20the%20logic%20of%20science-%E6%A6%82%E7%8E%87%E8%AE%BA%E6%B2%89%E6%80%9D%E5%BD%95.pdf)
+39               | [凸优化_Stephen_Boyd(王书宁翻译).pdf](/Math/%E5%87%B8%E4%BC%98%E5%8C%96_Stephen_Boyd(%E7%8E%8B%E4%B9%A6%E5%AE%81%E7%BF%BB%E8%AF%91).pdf)
 
 ### Other Resources
 
