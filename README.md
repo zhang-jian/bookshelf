@@ -134,7 +134,10 @@ Index                | Title
 82                 | [Foundations of Data Science.pdf](/Computer%20Science/Foundations%20of%20Data%20Science.pdf)
 83                 | [Foundations of Computer Science.pdf](/Computer%20Science/Foundations%20of%20Computer%20Science.pdf)
 84                 | [Vue.js 2 Cookbook.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
-
+85                 | [算法图解.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
+86                 | [Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
+87                 | [Cracking the Coding Interview, 4 Edition, 150 Programming Interview Questions and Solutions.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
+88                 | [编程之美——微软技术面试心得.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
 
 ### Math
 
@@ -177,6 +180,8 @@ Index                | Title
 35               | [Blitzstein J.K., Hwang J.-Introduction to Probability-CRC (2015).pdf](/Math/Blitzstein%20J.K.%2C%20Hwang%20J.-Introduction%20to%20Probability-CRC%20(2015).pdf)
 36               | [Introduction to Mathematical Statistics _7th .pdf](/Math/Introduction%20to%20Mathematical%20Statistics%20_7th%20.pdf)
 37               | [Probability and Statistics-Morris H.Degroot, 4th Edition.pdf](/Math/Probability%20and%20Statistics-Morris%20H.Degroot%2C%204th%20Edition.pdf)
+38               | [Probability theory the logic of science-概率论沉思录.pdf](/Math/Probability%20and%20Statistics-Morris%20H.Degroot%2C%204th%20Edition.pdf)
+39               | [凸优化_Stephen_Boyd(王书宁翻译).pdf](/Math/Probability%20and%20Statistics-Morris%20H.Degroot%2C%204th%20Edition.pdf)
 
 ### Other Resources
 
