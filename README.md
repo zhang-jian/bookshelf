@@ -133,6 +133,7 @@ Index                | Title
 81                 | [Doing Bayesian Data Analysis.pdf](/Computer%20Science/Doing%20Bayesian%20Data%20Analysis.pdf)
 82                 | [Foundations of Data Science.pdf](/Computer%20Science/Foundations%20of%20Data%20Science.pdf)
 83                 | [Foundations of Computer Science.pdf](/Computer%20Science/Foundations%20of%20Computer%20Science.pdf)
+84                 | [Vue.js 2 Cookbook.pdf](/Computer%20Science/Vue.js%202%20Cookbook.pdf)
 
 
 ### Math
