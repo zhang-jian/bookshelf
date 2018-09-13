@@ -43,7 +43,7 @@ Index                | Title
 23     | [Introduction to Probability, Charles M. Grinstead & J. Laurie Snell.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Introduction%20to%20Probability%2C%20Charles%20M.%20Grinstead%20%26%20J.%20Laurie%20Snell.pdf)
 24     | [Deep Reinforcement Learning Hands-On.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Reinforcement%20Learning%20Hands-On.pdf)
 25     | [Deep Learning Specialization(5 courses)-Andrew Ng, Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Deep%20Learning%20Specialization(5%20courses)-Andrew%20Ng%2C%20Assignments)
-26     | [Machine Learning（Andrew Ng）Assignments](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning/Machine%20Learning%EF%BC%88Andrew%20Ng%EF%BC%89Assignments)
+26     | [Machine Learning（Andrew Ng）, Assignments](/Machine%20Leraning/Machine%20Learning%EF%BC%88Andrew%20Ng%EF%BC%89%2C%20Assignments)
 
 
 ### Computer Science
