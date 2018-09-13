@@ -2,7 +2,7 @@
 ========
 
 
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/hktxt/bookshelf/blob/master/LICENSE)
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/hktxt/bookshelf/blob/master/LICENSE):smiley:
 
 
 <!-- vim-markdown-toc GFM -->
@@ -15,7 +15,7 @@
 <!-- vim-markdown-toc -->
 _______________
 
-### Machine Learning :smiley:
+### Machine Learning
 Index                | Title
 :---:                | :---
  1     |[An Introduction to Natural Language Processing(Third Edition).pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/An%20Introduction%20to%20Natural%20Language%20Processing(Third%20Edition).pdf)
