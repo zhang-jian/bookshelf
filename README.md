@@ -2,7 +2,7 @@
 ========
 
 
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/hktxt/bookshelf/blob/master/LICENSE):smiley:
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/hktxt/bookshelf/blob/master/LICENSE)
 
 
 <!-- vim-markdown-toc GFM -->
