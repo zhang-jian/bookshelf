@@ -7,10 +7,10 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [Machine Leraning](#https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning)
-* [Computer Science](#https://github.com/hktxt/bookshelf/tree/master/Computer%20Science)
-* [Math](#https://github.com/hktxt/bookshelf/tree/master/Math)
-* [Other Resources](#https://github.com/hktxt/bookshelf/tree/master/Other%20Resources)
+* [Machine Leraning](https://github.com/hktxt/bookshelf/tree/master/Machine%20Leraning)
+* [Computer Science](https://github.com/hktxt/bookshelf/tree/master/Computer%20Science)
+* [Math](https://github.com/hktxt/bookshelf/tree/master/Math)
+* [Other Resources](https://github.com/hktxt/bookshelf/tree/master/Other%20Resources)
 
 <!-- vim-markdown-toc -->
 _______________
