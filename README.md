@@ -42,6 +42,7 @@ Index                | Title
 22     | [Reinforcement Learning An Introduction, Richard S. Sutton and Andrew G. Barto.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Reinforcement%20Learning%20An%20Introduction%2C%20Richard%20S.%20Sutton%20and%20Andrew%20G.%20Barto.pdf)
 23     | [Introduction to Probability, Charles M. Grinstead & J. Laurie Snell.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Introduction%20to%20Probability%2C%20Charles%20M.%20Grinstead%20%26%20J.%20Laurie%20Snell.pdf)
 24     | [Deep Reinforcement Learning Hands-On.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Reinforcement%20Learning%20Hands-On.pdf)
+25     | [Neural.Networks.Tricks.of.the.Trade.pdf](/Machine%20Leraning/Neural.Networks.Tricks.of.the.Trade.pdf)
 
 
 
