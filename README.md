@@ -143,6 +143,7 @@ Index                | Title
 92                 | [Docker on Windows.pdf](/Computer%20Science/Docker%20on%20Windows.pdf)
 93                 | [Mastering Kubernetes.pdf](/Computer%20Science/Mastering%20Kubernetes.pdf)
 94                 | [Python Web Scraping.pdf](/Computer%20Science/Python%20Web%20Scraping.pdf)
+95                 | [ROS Robotics Projects.pdf](/Computer%20Science/ROS%20Robotics%20Projects.pdf)
 
 ### Math
 
