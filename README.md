@@ -144,7 +144,7 @@ Index                | Title
 93                 | [Mastering Kubernetes.pdf](/Computer%20Science/Mastering%20Kubernetes.pdf)
 94                 | [Python Web Scraping.pdf](/Computer%20Science/Python%20Web%20Scraping.pdf)
 95                 | [ROS Robotics Projects.pdf](/Computer%20Science/ROS%20Robotics%20Projects.pdf)
-
+96                 | [Mastering PHP 7.pdf](/Computer%20Science/Mastering%20PHP%207.pdf)
 ### Math
 
 Index                | Title
