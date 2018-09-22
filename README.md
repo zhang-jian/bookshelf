@@ -146,7 +146,7 @@ Index                | Title
 95                 | [ROS Robotics Projects.pdf](/Computer%20Science/ROS%20Robotics%20Projects.pdf)
 96                 | [Mastering PHP 7.pdf](/Computer%20Science/Mastering%20PHP%207.pdf)
 97                 | [Learning Concurrency in Python.pdf](/Computer%20Science/Learning%20Concurrency%20in%20Python.pdf)
-
+98                 | [Progressive Web Apps with React.pdf](/Computer%20Science/Progressive%20Web%20Apps%20with%20React.pdf)
 
 
 ### Math
