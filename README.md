@@ -148,6 +148,7 @@ Index                | Title
 97                 | [Learning Concurrency in Python.pdf](/Computer%20Science/Learning%20Concurrency%20in%20Python.pdf)
 98                 | [Progressive Web Apps with React.pdf](/Computer%20Science/Progressive%20Web%20Apps%20with%20React.pdf)
 99                 | [Pandas Cookbook.pdf](/Computer%20Science/Pandas%20Cookbook.pdf)
+100                 | [Kali Linux - An Ethical Hacker's Cookbook.pdf](/Computer%20Science/Kali%20Linux%20-%20An%20Ethical%20Hacker's%20Cookbook.pdf)
 
 
 ### Math
