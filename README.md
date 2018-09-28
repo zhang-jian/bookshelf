@@ -149,7 +149,7 @@ Index                | Title
 98                 | [Progressive Web Apps with React.pdf](/Computer%20Science/Progressive%20Web%20Apps%20with%20React.pdf)
 99                 | [Pandas Cookbook.pdf](/Computer%20Science/Pandas%20Cookbook.pdf)
 100                 | [Kali Linux - An Ethical Hacker's Cookbook.pdf](/Computer%20Science/Kali%20Linux%20-%20An%20Ethical%20Hacker's%20Cookbook.pdf)
-101                 | [Augmented Reality for Developers](/Computer%20Science/Augmented%20Reality%20for%20Developers.pdf)
+101                 | [Augmented Reality for Developers.pdf](/Computer%20Science/Augmented%20Reality%20for%20Developers.pdf)
 102                 | [Architecting Modern Java EE Applications.pdf](/Computer%20Science/Architecting%20Modern%20Java%20EE%20Applications.pdf)
 103                 | [Modern R Programming Cookbook.pdf](/Computer%20Science/Modern%20R%20Programming%20Cookbook.pdf)
 
