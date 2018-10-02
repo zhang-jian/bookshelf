@@ -42,7 +42,7 @@ Index                | Title
 22     | [Reinforcement Learning An Introduction, Richard S. Sutton and Andrew G. Barto.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Reinforcement%20Learning%20An%20Introduction%2C%20Richard%20S.%20Sutton%20and%20Andrew%20G.%20Barto.pdf)
 23     | [Deep Reinforcement Learning Hands-On.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Reinforcement%20Learning%20Hands-On.pdf)
 24     | [Neural.Networks.Tricks.of.the.Trade.pdf](/Machine%20Leraning/Neural.Networks.Tricks.of.the.Trade.pdf)
-
+25     | [Statistics for Machine Learning.pdf](/Machine%20Leraning/Statistics%20for%20Machine%20Learning.pdf)
 
 
 ### Computer Science
