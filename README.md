@@ -152,6 +152,8 @@ Index                | Title
 101                 | [Augmented Reality for Developers.pdf](/Computer%20Science/Augmented%20Reality%20for%20Developers.pdf)
 102                 | [Architecting Modern Java EE Applications.pdf](/Computer%20Science/Architecting%20Modern%20Java%20EE%20Applications.pdf)
 103                 | [Modern R Programming Cookbook.pdf](/Computer%20Science/Modern%20R%20Programming%20Cookbook.pdf)
+104                 | [Python for Everybody.pdf](/Computer%20Science/Python%20for%20Everybody.pdf)
+
 
 ### Math
 
