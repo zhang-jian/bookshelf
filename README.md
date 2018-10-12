@@ -43,6 +43,7 @@ Index                | Title
 23     | [Deep Reinforcement Learning Hands-On.pdf](https://github.com/hktxt/bookshelf/blob/master/Machine%20Leraning/Deep%20Reinforcement%20Learning%20Hands-On.pdf)
 24     | [Neural.Networks.Tricks.of.the.Trade.pdf](/Machine%20Leraning/Neural.Networks.Tricks.of.the.Trade.pdf)
 25     | [Statistics for Machine Learning.pdf](/Machine%20Leraning/Statistics%20for%20Machine%20Learning.pdf)
+26     | [Deep Learning with PyTorch.pdf](/Machine%20Leraning/Deep%20Learning%20with%20PyTorch.pdf)
 
 
 ### Computer Science
