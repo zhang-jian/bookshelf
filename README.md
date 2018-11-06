@@ -46,7 +46,7 @@ Index                | Title
 26     | [Deep Learning with PyTorch.pdf](/Machine%20Leraning/Deep%20Learning%20with%20PyTorch.pdf)
 27     | [An Introduction to Graphical Models, Michael I. Jordan.pdf](/Machine%20Leraning/AN%20INTRODUCTION%20TO%20GRAPHICAL%20MODELS%2C%20Michael%20I.%20Jordan.pdf)
 28     | [Graphical Models, Exponential Families, and Variational Inference.pdf](/Machine%20Leraning/Graphical%20Models%2C%20Exponential%20Families%2C%20and%20Variational%20Inference.pdf)
-
+29     | [Machine Learning Algorithms.pdf](/Machine%20Leraning/Machine%20Learning%20Algorithms.pdf)
 
 ### Computer Science
 
