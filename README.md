@@ -48,6 +48,7 @@ Index                | Title
 28     | [Graphical Models, Exponential Families, and Variational Inference.pdf](/Machine%20Leraning/Graphical%20Models%2C%20Exponential%20Families%2C%20and%20Variational%20Inference.pdf)
 29     | [Machine Learning Algorithms.pdf](/Machine%20Leraning/Machine%20Learning%20Algorithms.pdf)
 30     | [Deep+Learning+in+Natural+Language+Processing.pdf](/Machine%20Leraning/Deep%2BLearning%2Bin%2BNatural%2BLanguage%2BProcessing.pdf)
+31     | [Deep Learning with PyTorch.pdf](/Machine%20Leraning/Deep%20Learning%20with%20PyTorch.pdf)
 
 ### Computer Science
 
