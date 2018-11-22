@@ -50,6 +50,7 @@ Index                | Title
 30     | [Deep+Learning+in+Natural+Language+Processing.pdf](/Machine%20Leraning/Deep%2BLearning%2Bin%2BNatural%2BLanguage%2BProcessing.pdf)
 31     | [Deep Learning with PyTorch.pdf](/Machine%20Leraning/Deep%20Learning%20with%20PyTorch.pdf)
 32     | [Machine Learning Yearning, Andrew Ng.pdf](/Machine%20Leraning/Machine%20Learning%20Yearning%2C%20Andrew%20Ng.pdf)
+33     | [Building Machine Learning Projects with TensorFlow.pdf](/Machine%20Leraning/Building%20Machine%20Learning%20Projects%20with%20TensorFlow.pdf)
 
 ### Computer Science
 
