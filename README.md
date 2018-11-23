@@ -51,6 +51,7 @@ Index                | Title
 31     | [Deep Learning with PyTorch.pdf](/Machine%20Leraning/Deep%20Learning%20with%20PyTorch.pdf)
 32     | [Machine Learning Yearning, Andrew Ng.pdf](/Machine%20Leraning/Machine%20Learning%20Yearning%2C%20Andrew%20Ng.pdf)
 33     | [Building Machine Learning Projects with TensorFlow.pdf](/Machine%20Leraning/Building%20Machine%20Learning%20Projects%20with%20TensorFlow.pdf)
+34     | [Bayesian Analysis with Python.pdf](/Machine%20Leraning/Bayesian%20Analysis%20with%20Python.pdf)
 
 ### Computer Science
 
