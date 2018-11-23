@@ -52,6 +52,8 @@ Index                | Title
 32     | [Machine Learning Yearning, Andrew Ng.pdf](/Machine%20Leraning/Machine%20Learning%20Yearning%2C%20Andrew%20Ng.pdf)
 33     | [Building Machine Learning Projects with TensorFlow.pdf](/Machine%20Leraning/Building%20Machine%20Learning%20Projects%20with%20TensorFlow.pdf)
 34     | [Bayesian Analysis with Python.pdf](/Machine%20Leraning/Bayesian%20Analysis%20with%20Python.pdf)
+35     | [Machine_Learning_A_Bayesian_and_Optimization_Perspective.pdf](/Machine%20Leraning/Machine_Learning_A_Bayesian_and_Optimization_Perspective.pdf)
+
 
 ### Computer Science
 
